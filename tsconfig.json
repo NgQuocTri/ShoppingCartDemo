@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "amd",
+    "removeComments": false,
+    "outDir": "mjs",
+    "watch": true,
+    // "resolveJsonModule": true,
+    // "esModuleInterop": true,
+    // "moduleResolution": "node"
+  },
+  "exclude": [
+    "css",  
+    "img",
+    "js",
+    "mjs",
+  ]
+}
